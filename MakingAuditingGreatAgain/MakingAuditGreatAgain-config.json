@@ -1,6 +1,6 @@
 {
     "Description": "Global configuration file for Wharf Consulting Audit Extract",
-    "VersionDate": "24/05/2017",
+    "VersionDate": "21/10/2017",
     "InvestigationAppID": "<<AppID here>>",
     "InvestigationAppSecret": "<<Your App Secret goes here>>",
     "InvestigationTenantDomain": "<<Tenant Domain here .onmicrosoft.com>>",
