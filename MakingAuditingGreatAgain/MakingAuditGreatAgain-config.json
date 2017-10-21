@@ -1,0 +1,16 @@
+{
+    "Description": "Global configuration file for Wharf Consulting Audit Extract",
+    "VersionDate": "24/05/2017",
+    "InvestigationAppID": "<<AppID here>>",
+    "InvestigationAppSecret": "<<Your App Secret goes here>>",
+    "InvestigationTenantDomain": "<<Tenant Domain here .onmicrosoft.com>>",
+    "InvestigationTenantGUID": "<<Tenant Guid goes here.. get it from Azure>>",
+    "LoginURL" : "https://login.windows.net",
+    "ResourceAPI" : "https://manage.office.com",
+    "ProcessLogOffsetDays" : 2,
+    "SQLServerURI" : "<<yourazuredb>>.database.windows.net",
+    "SQLDatabaseName" : "Office365AuditHistory",
+    "SQLDatabaseTable" : "AuditHistory",
+    "SqlAccessAccount" : "auditlogaccount",
+    "SqlAccessAccountPwd" : "sqlpassword"
+}
